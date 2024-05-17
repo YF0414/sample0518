@@ -58,9 +58,9 @@ include $inc_path .'/inc/head.php';
   <div class="prof_item_cal"><a href="/shop.php"><img src="https://oil-mafia.com/profile_images/images_one_gqUWouLpvvZCTRTaDeYx1706025418.jpg" alt=""></a></div>
 </div>
 
-<h2 class="member_h22" style="margin-bottom:10px;">本日出勤の<br>お気に入りセラピスト</h2>
-<p style="text-align: center; padding:10px; background:rgba(255,255,255,.3); border-radius:5px; margin: 0 10px;">※ユーザー情報で設定した「利用するメインエリア」のお気に入りセラピストが表示されます<br>
-利用するメインエリアを切り替えるとそのエリアのセラピストが表示されます。</p>
+<h2 class="member_h22">本日出勤の<br>お気に入りセラピスト</h2>
+<p class="member_p">※ユーザー情報で設定した「利用するメインエリア」のお気に入りセラピストの出勤が表示されます<br>
+利用するメインエリアを切り替えるとそのエリアの出勤セラピストが表示されます。</p>
 
 <div class="container_photo heightgg">
   <div class="grid-item_photo">
