@@ -43,6 +43,7 @@ include $inc_path .'/inc/head.php';
 
 
 <div class="button-box">
+  <a href="/members/my_page" class="mat-button">マイページトップ</a>
   <a href="therapist.php" class="mat-button">セラピスト</a>
   <a href="likeshop.php" class="mat-button pushpush">ショップ</a>
   <a href="userprof.php" class="mat-button">ユーザー情報</a>
