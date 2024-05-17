@@ -59,7 +59,7 @@ include $inc_path .'/inc/head.php';
 </div>
 
 <h2 class="member_h22">本日出勤の<br>お気に入りセラピスト</h2>
-<p class="member_p">※ユーザー情報で設定した「利用するメインエリア」のお気に入りセラピストの出勤が表示されます<br>
+<p class="member_p">※ユーザー情報で設定した「利用するメインエリア」のお気に入りセラピストの出勤が表示されます。<br>
 利用するメインエリアを切り替えるとそのエリアの出勤セラピストが表示されます。</p>
 
 <div class="container_photo heightgg">
