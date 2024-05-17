@@ -39,9 +39,6 @@ include $inc_path .'/inc/head.php';
       <a href="/mypage"><img src="<?=$com_href?>/img/member_logo.webp"></a>
     </div>
 
-<h1 class="big_h2"><a href="/mypage">MyページTop <i class="fa-solid fa-arrow-up-right-from-square"></i></a></h1>
-
-
 <div class="button-box">
   <a href="/members/my_page" class="mat-button">マイページトップ</a>
   <a href="therapist.php" class="mat-button">セラピスト</a>
